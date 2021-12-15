@@ -1,1 +1,144 @@
-# grade8-new
+h1{
+	color: #FCC8AF;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 50px;
+
+}
+h1{
+text-align: center;
+font-family: 'Teko', sans-serif;
+}
+
+body{
+	background: #White;
+	color: white;
+	font-family: Helvetica,Baskerville, Ariel, sans-serif, Century Gothic;
+	text-align: center;
+	background-image: url(file:///Users/dorons2017macbookair/Downloads/drawn3.png);
+}
+
+blockquote{
+	background-color: #FCC8AF;
+}
+
+h5{
+	color: #EDBE96;
+	text-align: right;
+	font-size: 15px;
+}
+
+
+button{
+	border-radius: 5px;
+	size: 200px;
+	background: #EDBE96;
+	width: 200px;
+	color: white;
+	font-size: 30px;
+	border-style: double;
+	border-color: #FCC8AF;
+}
+
+header{
+	padding-bottom: 2px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+h2{
+	color: white;
+	font-size: 35px;
+	font-family: Helvetica, Baskerville: ;
+}
+
+footer{
+	color: white;
+	font-size: 15px;
+	font-family: Helvetica;
+}
+
+body{
+	font-size: 25px;
+}
+
+img{
+	size: 75px;
+	width: 115px;
+}
+
+h3{
+	color: #EDBE96;
+	font-family: Helvetica, Baskerville;
+}
+
+body{
+	
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+p{
+		font-size: 40px;
+}
+
+p{
+	background-color: #EDBE96;
+	color: #black;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	padding-left: 80px;
+	padding-right: 80px;
+	font-size: 30px;
+	font-family: Baskerville;
+}
+
+h5{
+	text-align: right;
+	padding-left: 300px;
+	font-size: 15px;
+}
+
+link{
+	text-decoration-color: #FAA86C;
+}
+
+footer{
+	background-color: #EDBE96;
+	padding-bottom: 30px;
+	text-align: center;
+	padding-top: 30px;
+	text-align: center;
+	background-position: center;
+	border-style: double;
+
+
+}
+
+a{
+	color: #FF914D;
+}
+
+footer a{
+	color: white
+}
+
+blockquote{
+	padding: 20px;
+}
+
+
+blockquote img{
+	width: 100px;
+}
+
+h1{
+	font-size: 120px;
+}
+
+body img{
+	min-width: 100px;
+}
+
+section img{
+	size: 300px;
+}
